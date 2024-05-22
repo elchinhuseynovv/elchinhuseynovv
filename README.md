@@ -1,4 +1,4 @@
-![logo](https://github.com/elchinhuseynovv/Elchin-Hussain/blob/main/bannerimage.jpeg)
+![logo](https://github.com/elchinhuseynovv/elchinhuseynovv/blob/main/bannerimage.jpeg)
 <h1 align="center">Hi 👋, I'm Elchin Huseynov</h1>
 <h3 align="center">A passionate python developer from Germany</h3>
 
